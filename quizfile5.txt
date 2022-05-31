@@ -1,0 +1,61 @@
+Name: 
+
+1.	What is the capital of Malacca?
+	A. Seremban
+	B. Kota Kinabalu
+	C. Ipoh
+	D. Malacca City
+
+2.	What is the capital of Kedah?
+	A. Kangar
+	B. Johor Bahru
+	C. Alor Setar
+	D. Kota Bahru
+
+3.	What is the capital of Pahang?
+	A. Shah Alam
+	B. Ipoh
+	C. Kuantan
+	D. Kota Kinabalu
+
+4.	What is the capital of Terengganu?
+	A. Alor Setar
+	B. Kuala Terengganu
+	C. Shah Alam
+	D. Ipoh
+
+5.	What is the capital of Negeri Sembilan?
+	A. Malacca City
+	B. Seremban
+	C. Kota Bahru
+	D. Johor Bahru
+
+6.	What is the capital of Kelantan?
+	A. Kuala Terengganu
+	B. Kota Bahru
+	C. Seremban
+	D. Kangar
+
+7.	What is the capital of Perlis?
+	A. Johor Bahru
+	B. Kuantan
+	C. Kuala Terengganu
+	D. Kangar
+
+8.	What is the capital of Sabah?
+	A. Alor Setar
+	B. Kuantan
+	C. Malacca City
+	D. Kota Kinabalu
+
+9.	What is the capital of Johor?
+	A. Malacca City
+	B. Alor Setar
+	C. Kangar
+	D. Johor Bahru
+
+10.	What is the capital of Selangor?
+	A. Kuching
+	B. Alor Setar
+	C. Kota Kinabalu
+	D. Shah Alam

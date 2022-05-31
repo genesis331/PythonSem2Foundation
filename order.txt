@@ -1,0 +1,4 @@
+watermelon|2|5.00
+mango|5|2.50
+durian|2|50.00
+jackfruit|3|25.50
