@@ -172,9 +172,9 @@ The general syntax is:
 
 ```py
 if(condition_or_expression):
-	# statement(s)
+    # statement(s)
 else:
-	# statement(s)
+    # statement(s)
 ```
 
 Flowchart View:
@@ -196,11 +196,11 @@ The general syntax is:
 
 ```py
 if(condition_or_expression):
-	# statement(s)
+    # statement(s)
 elif(condition_or_expression):
     # statement(s)
 else:
-	# statement(s)
+    # statement(s)
 ```
 
 Flowchart View:
@@ -226,12 +226,12 @@ The general syntax is:
 
 ```py
 if(condition_or_expression):
-	if(condition_or_expression):
+    if(condition_or_expression):
     	# statement(s)
     else:
     	# statement(s)
 else:
-	# statement(s)
+    # statement(s)
 ```
 
 Flowchart View:
@@ -269,7 +269,7 @@ The general syntax is:
 
 ```py
 while(loop_condition):
-	# statement(s)
+    # statement(s)
 ```
 
 Flowchart View:
