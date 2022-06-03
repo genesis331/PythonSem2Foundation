@@ -179,7 +179,7 @@ else:
 
 Flowchart View:
 
-![simple_if](https://media.discordapp.net/attachments/465089816652939265/981765198530633758/simple-if.png)
+![simple_if](https://serve.zixucheah331.ml/static/simple-if.png)
 
 Sample Code:
 
@@ -205,7 +205,7 @@ else:
 
 Flowchart View:
 
-![multiway_if](https://media.discordapp.net/attachments/465089816652939265/981765198018924574/multiway-if.png)
+![multiway_if](https://serve.zixucheah331.ml/static/multiway-if.png)
 
 Sample Code:
 
@@ -236,7 +236,7 @@ else:
 
 Flowchart View:
 
-![nested_if](https://media.discordapp.net/attachments/465089816652939265/981765198266400808/nested-if.png)
+![nested_if](https://serve.zixucheah331.ml/static/nested-if.png)
 
 Sample Code:
 
@@ -274,7 +274,7 @@ while(loop_condition):
 
 Flowchart View:
 
-![while_loop](https://media.discordapp.net/attachments/465089816652939265/981765197645635604/while-loop.png)
+![while_loop](https://serve.zixucheah331.ml/static/while-loop.png)
 
 Sample Code:
 
@@ -301,7 +301,7 @@ There are 3 general syntax:
 
     Flowchart View:
 
-    ![for_loop1](https://media.discordapp.net/attachments/465089816652939265/981765197406543972/for-loop-1.png)
+    ![for_loop1](https://serve.zixucheah331.ml/static/for-loop-1.png)
 
 2. This loop starts counting from `i = a` to `i < b` with an update of `i += 1` every round.
 
@@ -312,7 +312,7 @@ There are 3 general syntax:
     
     Flowchart View:
 
-    ![for_loop2](https://media.discordapp.net/attachments/465089816652939265/981765197222019102/for-loop-2.png)
+    ![for_loop2](https://serve.zixucheah331.ml/static/for-loop-2.png)
 
 3. This loop starts counting from `i = a` to `i < b` with an update of `i += k` every round.
 
@@ -323,7 +323,7 @@ There are 3 general syntax:
     
     Flowchart View:
 
-    ![for_loop3](https://media.discordapp.net/attachments/465089816652939265/981765196848693280/for-loop-3.png)
+    ![for_loop3](https://serve.zixucheah331.ml/static/for-loop-3.png)
 
 ---
 
