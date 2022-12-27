@@ -179,7 +179,7 @@ else:
 
 Flowchart View:
 
-![simple_if](https://serve.zixucheah331.ml/static/simple-if.png)
+![simple-if](https://user-images.githubusercontent.com/22348410/209679607-b4d0471b-a697-40af-a3fc-b35840800c46.png)
 
 Sample Code:
 
@@ -205,7 +205,7 @@ else:
 
 Flowchart View:
 
-![multiway_if](https://serve.zixucheah331.ml/static/multiway-if.png)
+![multiway-if](https://user-images.githubusercontent.com/22348410/209679583-1d563bc4-a5cd-4055-9b47-d337c8e6d9a2.png)
 
 Sample Code:
 
@@ -236,7 +236,7 @@ else:
 
 Flowchart View:
 
-![nested_if](https://serve.zixucheah331.ml/static/nested-if.png)
+![nested-if](https://user-images.githubusercontent.com/22348410/209679555-dc06c0fc-2afa-44b1-8643-86bdfd441365.png)
 
 Sample Code:
 
@@ -274,7 +274,7 @@ while(loop_condition):
 
 Flowchart View:
 
-![while_loop](https://serve.zixucheah331.ml/static/while-loop.png)
+![while-loop](https://user-images.githubusercontent.com/22348410/209679457-de747010-2c37-4651-b50a-cff7b0fb533e.png)
 
 Sample Code:
 
@@ -301,7 +301,7 @@ There are 3 general syntax:
 
     Flowchart View:
 
-    ![for_loop1](https://serve.zixucheah331.ml/static/for-loop-1.png)
+    ![for-loop-1](https://user-images.githubusercontent.com/22348410/209679665-5ae97e3b-083a-4da4-b446-dec0d0c59e93.png)
 
 2. This loop starts counting from `i = a` to `i < b` with an update of `i += 1` every round.
 
@@ -312,7 +312,7 @@ There are 3 general syntax:
     
     Flowchart View:
 
-    ![for_loop2](https://serve.zixucheah331.ml/static/for-loop-2.png)
+    ![for-loop-2](https://user-images.githubusercontent.com/22348410/209679693-eb6f3b36-a4ea-470d-aff5-61c369ea744c.png)
 
 3. This loop starts counting from `i = a` to `i < b` with an update of `i += k` every round.
 
@@ -323,7 +323,7 @@ There are 3 general syntax:
     
     Flowchart View:
 
-    ![for_loop3](https://serve.zixucheah331.ml/static/for-loop-3.png)
+    ![for-loop-3](https://user-images.githubusercontent.com/22348410/209679735-d771e46a-3e29-4575-8992-d47a6d37aa95.png)
 
 ---
 
